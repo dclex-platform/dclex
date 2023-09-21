@@ -9,5 +9,6 @@ Welcome to the DCLEX Info Directory! This directory contains important informati
 ├── Branding/
 ├── Testnet/
 ├── Whitepapers/
+├── Contracts/
 └── README.md
 ```
